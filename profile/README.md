@@ -6,6 +6,7 @@ Learning resources for coding
 
 [![Java 101 Card](https://github-readme-stats.vercel.app/api/pin/?username=lernejo&repo=course-java-101-fr&theme=highcontrast)](https://github.com/lernejo/course-java-101-fr)
 [![Java 201 Card](https://github-readme-stats.vercel.app/api/pin/?username=lernejo&repo=course-java-201-fr&theme=highcontrast)](https://github.com/lernejo/course-java-201-fr)
+[![Java 202 Card](https://github-readme-stats.vercel.app/api/pin/?username=lernejo&repo=course-java-202-fr&theme=highcontrast)](https://github.com/lernejo/course-java-202-fr)
 
 ## Exercices
 
